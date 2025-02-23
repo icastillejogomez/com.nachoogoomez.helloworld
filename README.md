@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Effective Date: [Insert Date]
+Effective Date: 02/23/2025
 
 Thank you for using "Hello World." Your privacy is important to us. This Privacy Policy explains our policy regarding data collection and usage.
 
@@ -17,7 +17,7 @@ Since our application does not collect data, we do not share any information wit
 
 **Política de Privacidad**
 
-Fecha de entrada en vigor: [Insertar Fecha]
+Fecha de entrada en vigor: 23/02/2025
 
 Gracias por usar "Hello World." Tu privacidad es importante para nosotros. Esta Política de Privacidad explica nuestra política sobre la recopilación y el uso de datos.
 
